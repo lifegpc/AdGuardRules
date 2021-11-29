@@ -1,0 +1,7 @@
+# Block Track Server
+||cyberlink.com^
+||cnzz.com^
+||hm.baidu.com^
+||analytics.cnblogs.com^
+||google-analytics.com^
+||zhihu-web-analytics.zhihu.com^
