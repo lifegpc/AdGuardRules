@@ -5,3 +5,4 @@
 ||analytics.cnblogs.com^
 ||google-analytics.com^
 ||zhihu-web-analytics.zhihu.com^
+||conviva.com^
