@@ -6,3 +6,4 @@
 ||google-analytics.com^
 ||zhihu-web-analytics.zhihu.com^
 ||conviva.com^
+||ip.zuciwang.com^
