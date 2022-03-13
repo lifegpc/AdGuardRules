@@ -7,3 +7,4 @@
 ||zhihu-web-analytics.zhihu.com^
 ||conviva.com^
 ||ip.zuciwang.com^
+/(h5)?log\.zongheng\.com/
